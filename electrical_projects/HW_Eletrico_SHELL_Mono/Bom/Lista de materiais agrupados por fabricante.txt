@@ -1,0 +1,7 @@
+﻿""	"Referência"	"Tag"	"Descrição do livro"	"Quantidade"	
+"1"	"AS332P-A"	"N2"	""	"1"	
+"1"	"AS16AP11T-A"	"N2 N1"	""	"1"	
+"2"	"AS332P-A"	"N1"	""	"1"	
+"1"	"Relé de monitoramento"	"J1"	""	"1"	
+"2"	"SRB-301MC"	"J4"	""	"1"	
+"3"	"Transformador de corrente"	"J2"	""	"1"	

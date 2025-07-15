@@ -1,0 +1,7 @@
+﻿"Mark"	"Location"	"article number"	"Reference"	"Manufacturer"	"Quantity"	""	
+"N1"	"L1"	""	"AS332P-A"	"Delta Electronics"	"1"	"F1 L1 N1L1"	
+"J1"	"L1 L1"	""	"Relé de monitoramento"	"user"	"1"	"F1 L1 L1 J1L1 L1"	
+"J2"	"L1 L1"	""	"Transformador de corrente"	"user"	"1"	"F1 L1 L1 J2L1 L1"	
+"J4"	"L1 L1"	""	"SRB-301MC"	"user"	"1"	"F1 L1 L1 J4L1 L1"	
+"N2"	"L1 L1"	""	"AS332P-A"	"DELTA"	"1"	"F1 L1 L1 N2L1 L1"	
+"N2 N1"	"L1 L1"	""	"AS16AP11T-A"	"Delta Electronics"	"1"	"F1 L1 L1 N2 N1L1 L1"	
